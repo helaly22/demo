@@ -6,75 +6,7 @@
       "password": "22448541",
       "name": "ahmed"
     }
-  ],
-  "Movies": [
-    {
-      "id": "1",
-      "title": "PINOCCHIO",
-      "year": "1940",
-      "image": "https://resizing.flixster.com/RHjKVwmhXioYPc4n0YPZjrxwTCQ=/fit-in/180x240/v2/https://resizing.flixster.com/9DS4LnhK6sKEfJRY6N2wkOJooII=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwODY2MjRjLTc3OGEtNDIyMS05MDJjLTE2MjE0YjY2NDY0Zi5qcGc=",
-      "image1": "https://i.pinimg.com/236x/f5/9e/e0/f59ee03c33555d8cf08fd6f63b74fedb.jpg",
-      "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8DkLaV10u_09i0-VZ8c7tL9dbE7P5gMVIA&usqp=CAU",
-      "image3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCeUHbyJ4xzZh44BUTECZ-bR6vssqCIW39w&usqp=CAU",
-      "video": "https://www.youtube.com/embed/GBgyVY_ClzQ",
-      "description": "The story's main character is a living wooden puppet crafted by a toy maker Geppetto who adopts him as his son. In the beginning, Pinocchio is disobedient. He ignores Papa Geppetto and runs away in search of adventure. The blue fairy guides Pinocchio at every step of the way and encourages him to change his ways"
-    },
-    {
-      "id": "2",
-      "title": "ZOOTOPIA",
-      "year": " 2016",
-      "image": "https://resizing.flixster.com/6OdIlerfHrjE3o0rEsLofTkerNA=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p11993845_p_v8_am.jpg",
-      "image1": "https://i.pinimg.com/564x/4d/08/3e/4d083e85ef8e46037a4ff729b4030363.jpg",
-      "image2": "https://i.pinimg.com/564x/72/9e/03/729e034c6fb50bf8894782162f1f0486.jpg",
-      "image3": "https://i.pinimg.com/564x/11/4e/78/114e7820f8a9641a836b24c186250684.jpg",
-      "video": "https://www.youtube.com/embed/yCOPJi0Urq4",
-      "description": "Taking place in the titular city where anthropomorphic mammals coexist, it tells a story of an unlikely partnership between a rabbit police officer and a red fox con artist as they uncover a criminal conspiracy involving the disappearance of predators."
-    },
-    {
-      "id": "3",
-      "title": "MOANA",
-      "year": " 2016",
-      "image": "https://resizing.flixster.com/6-4ejCtYNezXV_VuMzk-awktGTQ=/fit-in/180x240/v2/https://flxt.tmsimg.com/NowShowing/159777/159777_aa.jpg",
-      "video": "https://www.youtube.com/embed/cPAbx5kgCJo",
-      "image1": "https://i.pinimg.com/564x/ed/84/93/ed8493ef814825c6d2363bf0396d0604.jpg",
-      "image2": "https://i.pinimg.com/564x/53/1b/1a/531b1a6909db8bc5189c0ba18fc8e2eb.jpg",
-      "image3": "https://i.pinimg.com/564x/a8/43/fd/a843fd2bf6b4860518e541aba4a84a38.jpg",
-      "description": "Moana is a sea-loving, strong-willed wayfarer. Though she has moments of self-doubt, she has great pride in who she is, and doesn't back away from new challenges. She approaches new experiences and tasks with the utmost seriousness and will stand her ground to fight for what she values, even when all seems lost."
-    },
-    {
-      "id": "4",
-      "title": "BEAUTY AND THE BEAST",
-      "year": " 1991",
-      "image": "https://resizing.flixster.com/sL3NlGMR1M8sOb1j3OMpzY4bi-0=/fit-in/180x240/v2/https://resizing.flixster.com/hxGLPPMf0SVNNNnWRsA4zTyk_As=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q1OWQzMzQ0LWY0YTgtNGI1ZS05NjRlLTk5NWMwMjVhYjQ0Yy53ZWJw",
-      "image1": "https://i.pinimg.com/236x/b4/e1/81/b4e181127d3fd843de55a07bb3f11be8.jpg",
-      "image2": "https://i.pinimg.com/236x/f3/d7/8f/f3d78fc289164a05d257a6fd3b788857.jpg",
-      "image3": "https://i.pinimg.com/236x/78/4b/9b/784b9b7eb87bf58815302b5d4b38ed52.jpg",
-      "video": "https://www.youtube.com/embed/iurbZwxKFUE",
-      "description": "Plot. An enchantress disguised as a beggar woman visits a castle and offers an enchanted rose to a cruel and selfish prince in exchange for shelter from a storm. When he refuses, she reveals her identity and transforms the prince into a beast and his servants into household objects."
-    },
-    {
-      "id": "5",
-      "title": "RAYA AND THE LAST DRAGON",
-      "year": " 2021",
-      "image": "https://resizing.flixster.com/u-6Y4l8XnXCex3SRCj5eYc1V5ck=/fit-in/180x240/v2/https://resizing.flixster.com/6u-m5Nrt0Q_-5FtcLqJxjsuZGcI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmYmI5YmZhLTUyMTktNDEwNy1iMjM3LWI2NTEwY2EzNmNkOC5qcGc=",
-      "image1": "https://i.pinimg.com/236x/03/2a/76/032a76429add1a177617e423fe1ce6ae.jpg",
-      "image2": "https://i.pinimg.com/236x/a2/f0/86/a2f086da8294a493174bb0f265be2319.jpg",
-      "image3": "https://i.pinimg.com/236x/8c/25/a8/8c25a878ee9716498f83339d54457470.jpg",
-      "video": "https://www.youtube.com/embed/1VIZ89FEjYI",
-      "description": "Kelly Marie Tran as Raya, the fierce and virtuous warrior princess of Heart who has been training to become a Guardian of the Dragon Gem. To change her father from stone back into himself and restore peace to Kumandra, she embarks on a search for the last dragon. Awkwafina as Sisu, the last dragon in existence."
-    },
-    {
-      "id": "6",
-      "title": "BIG HERO 6",
-      "year": " 2014",
-      "image": "https://resizing.flixster.com/Lgv3WWmKoJg1HB2jv1s7dblEL6w=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p10569216_p_v12_ap.jpg",
-      "image1": "https://i.pinimg.com/236x/48/32/ec/4832ec99d6c2f42d6cfd426be78d22a0.jpg",
-      "image2": "https://i.pinimg.com/236x/8d/22/b6/8d22b6fe61730ad77c23d49bce6067d7.jpg",
-      "image3": "https://i.pinimg.com/236x/de/d9/9c/ded99c079098f7a3cde84592f8383f99.jpg",
-      "video": "https://www.youtube.com/embed/z3biFxZIJOQ",
-      "description": "Big Hero 6 tells the story of Hiro Hamada, a young robotics prodigy, and Baymax, his late-brother Tadashi's healthcare-provider robot, who form a superhero team to combat a masked villain who is responsible for Tadashi's death."
-    }
-    
   ]
+
 }
 
