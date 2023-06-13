@@ -1,14 +1,233 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "profile": [
+    {
+      "id": "1",
+      "email": "ahmed@gmail.com",
+      "password": "22448541",
+      "name": "ahmed"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Movies": [
+    {
+      "id": "1",
+      "title": "PINOCCHIO",
+      "year": "1940",
+      "image": "https://resizing.flixster.com/RHjKVwmhXioYPc4n0YPZjrxwTCQ=/fit-in/180x240/v2/https://resizing.flixster.com/9DS4LnhK6sKEfJRY6N2wkOJooII=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwODY2MjRjLTc3OGEtNDIyMS05MDJjLTE2MjE0YjY2NDY0Zi5qcGc=",
+      "image1": "https://i.pinimg.com/236x/f5/9e/e0/f59ee03c33555d8cf08fd6f63b74fedb.jpg",
+      "image2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8DkLaV10u_09i0-VZ8c7tL9dbE7P5gMVIA&usqp=CAU",
+      "image3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCeUHbyJ4xzZh44BUTECZ-bR6vssqCIW39w&usqp=CAU",
+      "video": "https://www.youtube.com/embed/GBgyVY_ClzQ",
+      "description": "The story's main character is a living wooden puppet crafted by a toy maker Geppetto who adopts him as his son. In the beginning, Pinocchio is disobedient. He ignores Papa Geppetto and runs away in search of adventure. The blue fairy guides Pinocchio at every step of the way and encourages him to change his ways"
+    },
+    {
+      "id": "2",
+      "title": "ZOOTOPIA",
+      "year": " 2016",
+      "image": "https://resizing.flixster.com/6OdIlerfHrjE3o0rEsLofTkerNA=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p11993845_p_v8_am.jpg",
+      "image1": "https://i.pinimg.com/564x/4d/08/3e/4d083e85ef8e46037a4ff729b4030363.jpg",
+      "image2": "https://i.pinimg.com/564x/72/9e/03/729e034c6fb50bf8894782162f1f0486.jpg",
+      "image3": "https://i.pinimg.com/564x/11/4e/78/114e7820f8a9641a836b24c186250684.jpg",
+      "video": "https://www.youtube.com/embed/yCOPJi0Urq4",
+      "description": "Taking place in the titular city where anthropomorphic mammals coexist, it tells a story of an unlikely partnership between a rabbit police officer and a red fox con artist as they uncover a criminal conspiracy involving the disappearance of predators."
+    },
+    {
+      "id": "3",
+      "title": "MOANA",
+      "year": " 2016",
+      "image": "https://resizing.flixster.com/6-4ejCtYNezXV_VuMzk-awktGTQ=/fit-in/180x240/v2/https://flxt.tmsimg.com/NowShowing/159777/159777_aa.jpg",
+      "video": "https://www.youtube.com/embed/cPAbx5kgCJo",
+      "image1": "https://i.pinimg.com/564x/ed/84/93/ed8493ef814825c6d2363bf0396d0604.jpg",
+      "image2": "https://i.pinimg.com/564x/53/1b/1a/531b1a6909db8bc5189c0ba18fc8e2eb.jpg",
+      "image3": "https://i.pinimg.com/564x/a8/43/fd/a843fd2bf6b4860518e541aba4a84a38.jpg",
+      "description": "Moana is a sea-loving, strong-willed wayfarer. Though she has moments of self-doubt, she has great pride in who she is, and doesn't back away from new challenges. She approaches new experiences and tasks with the utmost seriousness and will stand her ground to fight for what she values, even when all seems lost."
+    },
+    {
+      "id": "4",
+      "title": "BEAUTY AND THE BEAST",
+      "year": " 1991",
+      "image": "https://resizing.flixster.com/sL3NlGMR1M8sOb1j3OMpzY4bi-0=/fit-in/180x240/v2/https://resizing.flixster.com/hxGLPPMf0SVNNNnWRsA4zTyk_As=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q1OWQzMzQ0LWY0YTgtNGI1ZS05NjRlLTk5NWMwMjVhYjQ0Yy53ZWJw",
+      "image1": "https://i.pinimg.com/236x/b4/e1/81/b4e181127d3fd843de55a07bb3f11be8.jpg",
+      "image2": "https://i.pinimg.com/236x/f3/d7/8f/f3d78fc289164a05d257a6fd3b788857.jpg",
+      "image3": "https://i.pinimg.com/236x/78/4b/9b/784b9b7eb87bf58815302b5d4b38ed52.jpg",
+      "video": "https://www.youtube.com/embed/iurbZwxKFUE",
+      "description": "Plot. An enchantress disguised as a beggar woman visits a castle and offers an enchanted rose to a cruel and selfish prince in exchange for shelter from a storm. When he refuses, she reveals her identity and transforms the prince into a beast and his servants into household objects."
+    },
+    {
+      "id": "5",
+      "title": "RAYA AND THE LAST DRAGON",
+      "year": " 2021",
+      "image": "https://resizing.flixster.com/u-6Y4l8XnXCex3SRCj5eYc1V5ck=/fit-in/180x240/v2/https://resizing.flixster.com/6u-m5Nrt0Q_-5FtcLqJxjsuZGcI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmYmI5YmZhLTUyMTktNDEwNy1iMjM3LWI2NTEwY2EzNmNkOC5qcGc=",
+      "image1": "https://i.pinimg.com/236x/03/2a/76/032a76429add1a177617e423fe1ce6ae.jpg",
+      "image2": "https://i.pinimg.com/236x/a2/f0/86/a2f086da8294a493174bb0f265be2319.jpg",
+      "image3": "https://i.pinimg.com/236x/8c/25/a8/8c25a878ee9716498f83339d54457470.jpg",
+      "video": "https://www.youtube.com/embed/1VIZ89FEjYI",
+      "description": "Kelly Marie Tran as Raya, the fierce and virtuous warrior princess of Heart who has been training to become a Guardian of the Dragon Gem. To change her father from stone back into himself and restore peace to Kumandra, she embarks on a search for the last dragon. Awkwafina as Sisu, the last dragon in existence."
+    },
+    {
+      "id": "6",
+      "title": "BIG HERO 6",
+      "year": " 2014",
+      "image": "https://resizing.flixster.com/Lgv3WWmKoJg1HB2jv1s7dblEL6w=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p10569216_p_v12_ap.jpg",
+      "image1": "https://i.pinimg.com/236x/48/32/ec/4832ec99d6c2f42d6cfd426be78d22a0.jpg",
+      "image2": "https://i.pinimg.com/236x/8d/22/b6/8d22b6fe61730ad77c23d49bce6067d7.jpg",
+      "image3": "https://i.pinimg.com/236x/de/d9/9c/ded99c079098f7a3cde84592f8383f99.jpg",
+      "video": "https://www.youtube.com/embed/z3biFxZIJOQ",
+      "description": "Big Hero 6 tells the story of Hiro Hamada, a young robotics prodigy, and Baymax, his late-brother Tadashi's healthcare-provider robot, who form a superhero team to combat a masked villain who is responsible for Tadashi's death."
+    },
+    {
+      "id": "7",
+      "title": "BOLT",
+      "year": "2008",
+      "image": "https://resizing.flixster.com/9JHV5KRgDVIsjDr0NeG8zmvGVdg=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p171577_p_v8_ag.jpg",
+      "image1": "https://i.pinimg.com/564x/6b/dd/5b/6bdd5b8ae02cf935f880de1831980028.jpg",
+      "image2": "https://i.pinimg.com/564x/cb/48/1d/cb481db5e7a55c0d602daddb3cea9951.jpg",
+      "image3": "https://i.pinimg.com/564x/f9/39/2c/f9392c6c03c23d5f8b74410bbb62f482.jpg",
+      "video": "https://www.youtube.com/embed/Pj0a7GkMH3w",
+      "description": " A girl named Penny and a dog named Bolt, who has various superpowers, must constantly thwart the evil plans of the nefarious Doctor Calico. However, little does Bolt know he is actually just a star on a hit television series called Bolt."
+    },
+    {
+      "id": "8",
+      "title": "RALPH BREAKS THE INTERNET",
+      "year": "2018",
+      "image": "https://resizing.flixster.com/DIAOXyn8UF9g-yIOK9-TL6o0YWQ=/fit-in/180x240/v2/https://resizing.flixster.com/Xlm8Uoe_Vy1aC6PFuZ1nDZPy4Xk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEwZGNiNWFlLWQxZDYtNGI5MS1iZDkwLTM0N2M2YzYyNjQ5My53ZWJw",
+      "image1": "https://i.pinimg.com/564x/d2/16/56/d216564a5446367d77b8b81c4940e681.jpg",
+      "image2": "https://i.pinimg.com/736x/56/4e/6a/564e6ad8de4ff44aaff01e4e9e272e36.jpg",
+      "image3": "https://i.pinimg.com/236x/91/ce/09/91ce098420dbfa292c45598eb497608d.jpg",
+      "video": "https://www.youtube.com/embed/_BcYBFC6zfY",
+      "description": " Ralph Breaks the Internet takes a hilarious but layered look at digital life as Ralph and his BFF Vanellope navigate the upsides and the perils of social media, online gaming and popular websites. There's a lot to like in this movie, not least its emphasis on the meaning of true friendship."
+    },
+    {
+      "id": "9",
+      "title": "WRECK-IT RALPH",
+      "year": "2012",
+      "image": "https://resizing.flixster.com/3VRoqMuF9axDEYGdQnun_IMOuzI=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p9248405_p_v8_ax.jpg",
+      "image1": "https://i.pinimg.com/564x/e4/2c/a0/e42ca0c73e1a03b95e438e0d893232b6.jpg",
+      "image2": "https://i.pinimg.com/564x/6a/31/9b/6a319b5a9a255ca38cbcb5e29e803cee.jpg",
+      "image3": "https://i.pinimg.com/564x/cf/bc/e2/cfbce2e73b3b9ff1495008f65efa7cfd.jpg",
+      "video": "https://www.youtube.com/embed/87E6N7ToCxs",
+      "description": "Wreck-it Ralph is a heart-warming animated movie about one man's journey towards self-acceptance. During Ralph's adventures through various arcade games, the relationships he develops help him to appreciate other people's feelings and also to realise that he isn't the stereotypical villain society says he is."
+    },
+    {
+      "id": "10",
+      "title": "FROZEN II",
+      "year": "2019",
+      "image": "https://resizing.flixster.com/JVlaS1kE5DYRfMmDH2xei1UJbQE=/fit-in/180x240/v2/https://resizing.flixster.com/R10FsECn4L0xGZWqktgVG583ErU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiYmIwOTg4LThhZGMtNGJlYy05YjQ4LTJkYmVkMmU3YjJkZC53ZWJw",
+      "image1": "https://i.pinimg.com/564x/22/5d/65/225d65b5d8fb0ff1ef46410147b5275e.jpg",
+      "image2": "https://i.pinimg.com/564x/e3/6e/cc/e36ecce6ec88f3329ca43726c0015e29.jpg",
+      "image3": "https://i.pinimg.com/564x/f6/d4/0d/f6d40d3fc0e1fbc1814ded277a581ef0.jpg",
+      "video": "https://www.youtube.com/embed/Zi4LMpSDccc",
+      "description": "Set three years after the events of the first film Frozen , from 2013 , the story follows Elsa, Anna, Kristoff, Olaf, and Sven, who embark on a journey beyond their kingdom of Arendelle in order to discover the origin of Elsa's magical powers and save their kingdom after a mysterious voice calls out to Elsa."
+    },
+    {
+      "id": "11",
+      "title": "TOY STORY",
+      "year": "1995",
+      "image": "https://resizing.flixster.com/LnkzFK6nqR8IyfqpIshpIpDKeTc=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p17420_p_v12_bc.jpg",
+      "image1": "https://i.pinimg.com/564x/be/a0/14/bea0143bca98e761addf0ef9dec37f67.jpg",
+      "image2": "https://i.pinimg.com/564x/b0/e1/38/b0e1385d430ba0b0c23453bff0e8dcae.jpg",
+      "image3": "https://i.pinimg.com/564x/75/f0/28/75f02847e05b6fadeec657faab2223eb.jpg",
+      "video": "https://www.youtube.com/embed/v-PjgYDrg70",
+      "description": "TOY STORY follows the adventures of the toys who belong to a boy named Andy. His favorite is a sheriff from the Old West named Woody (voiced by Tom Hanks), who acts as the leader of the rest of Andy's toys -- including a skittish Tyrannosaurus Rex (Wallace Shawn) and Mr. Potato Head"
+    },
+    {
+      "id": "12",
+      "title": "TOY STORY 2",
+      "year": "1999",
+      "image": "https://resizing.flixster.com/HBc4UiXv44KGAbjA7i_mMD4ojVc=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p24266_p_v12_ae.jpg",
+      "image1": "https://i.pinimg.com/564x/c1/32/90/c1329097f63cba08be9251389299004c.jpg",
+      "image2": "https://i.pinimg.com/564x/29/60/71/296071ef65974b69a5c7d6f5e396f51e.jpg",
+      "image3": "https://i.pinimg.com/564x/1f/7b/47/1f7b475ea306b33be13fed46d430b033.jpg",
+      "video": "https://www.youtube.com/embed/xNWSGRD5CzU",
+      "description": "Summaries. When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye."
+    },
+    {
+      "id": "13",
+      "title": "FINDING NEMO",
+      "year": "2003",
+      "image": "https://resizing.flixster.com/H31_DrtIpLftYvSJeZdqUTXrMZ8=/fit-in/180x240/v2/https://flxt.tmsimg.com/NowShowing/34125/34125_ac.jpg",
+      "image1": "https://i.pinimg.com/564x/b1/c2/e6/b1c2e6479e09b734ac2ab4b2c3a1f30e.jpg",
+      "image2": "https://i.pinimg.com/236x/33/bb/0e/33bb0e49ac8926ea78ad5dc7b3333f0e.jpg",
+      "image3": "https://i.pinimg.com/236x/ff/ac/0e/ffac0ef7987de0da1b4d6b8e9a99276e.jpg",
+      "video": "https://www.youtube.com/embed/2zLkasScy7A",
+      "description": "It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo (Gould). Along the way, Marlin learns to take risks and comes to terms with Nemo taking care of himself."
+    },
+    {
+      "id": "14",
+      "title": "INSIDE OUT",
+      "year": "2015",
+      "image": "https://resizing.flixster.com/RbPim5OIQBaMcWlSv2NyNveSMHQ=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p10840532_p_v13_al.jpg",
+      "image1": "https://i.pinimg.com/564x/3a/fb/a8/3afba8a57fca401cefb8ac0004820c84.jpg",
+      "image2": "https://i.pinimg.com/564x/8d/02/70/8d0270c58aab2d35937a7dd83b672685.jpg",
+      "image3": "https://i.pinimg.com/564x/70/ac/8d/70ac8d95bc862e26f8d56ae335dcd427.jpg",
+      "video": "https://www.youtube.com/embed/yRUAzGQ3nSY",
+      "description": "The film follows the inner workings inside the mind of a young girl named Riley, who adapts to her family's relocation, as five personified emotions administer her thoughts and actions."
+    },
+    {
+      "id": "15",
+      "title": "TOY STORY 3",
+      "year": "2010",
+      "image": "https://resizing.flixster.com/VQQGxRb2yIgLMRIYgxdmc7bruLA=/fit-in/180x240/v2/https://resizing.flixster.com/F4qdcvTFMYoEmut3WmhBVmYeSVI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlhZDg3ZjU1LTk3ZTAtNDMzMC04MzliLTNiMzE5YmQ3ZDQ4OC53ZWJw",
+      "image1": "https://i.pinimg.com/564x/41/eb/9c/41eb9c8d7219885ea145594f9f2a8ad2.jpg",
+      "image2": "https://i.pinimg.com/564x/d2/e4/45/d2e4457d10aed01c8e70f0324123693f.jpg",
+      "image3": "https://i.pinimg.com/564x/02/4e/1c/024e1c7ae61bed100455b03817c24307.jpg",
+      "video": "https://www.youtube.com/embed/JcpWXaA2qeg",
+      "description": "In Toy Story 3, Andy Davis (Morris), now 17 years old, is going to college. Woody (Hanks), Buzz Lightyear (Allen), and the other toys are accidentally donated to Sunnyside Daycare, a daycare center, by Andy's mother (Metcalf), and the toys must decide where their loyalties lie."
+    },
+    {
+      "id": "16",
+      "title": "MONSTERS INC",
+      "year": "2001",
+      "image": "https://resizing.flixster.com/22lpFgZLI1nCGBxkV4cAhOq_5Cc=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p27462_p_v12_an.jpg",
+      "image1": "https://i.pinimg.com/564x/f3/fe/3e/f3fe3ecdfb7b280f7108337560d13760.jpg",
+      "image2": "https://i.pinimg.com/564x/6e/64/d2/6e64d2fb9a8563fa032504db919d7957.jpg",
+      "image3": "https://i.pinimg.com/564x/87/43/c8/8743c86db68799e464f0e7e70c176b87.jpg",
+      "video": "https://www.youtube.com/embed/CGbgaHoapFM",
+      "description": "The film centers on two monsters, the hairy James P. Sulley Sullivan (Goodman) and his one-eyed partner and best friend Mike Wazowski (Crystal), who are employed at the titular energy-producing factory Monsters, Inc., which generates power by scaring human children."
+    },
+    {
+      "id": "17",
+      "title": "RATATOUILLE",
+      "year": "2007",
+      "image": "https://resizing.flixster.com/sZ8woJ2cBbrAns9MNYWHvQ6aNDs=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p165058_p_v8_at.jpg",
+      "image1": "https://i.pinimg.com/564x/b5/66/e0/b566e0c6f9acad5f274a62f34cc92c59.jpg",
+      "image2": "https://i.pinimg.com/564x/13/f2/64/13f264c73669cafedef62bd2e2381e71.jpg",
+      "image3": "https://i.pinimg.com/564x/97/74/f4/9774f4e7a61fdeba0274d032682cfcee.jpg",
+      "video": "https://www.youtube.com/embed/NgsQ8mVkN8w",
+      "description": "A rat named Remy dreams of becoming a great chef despite his family's wishes, and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau."
+    },
+    {
+      "id": "18",
+      "title": "UP",
+      "year": "2009",
+      "image": "https://resizing.flixster.com/pByGMPMqhJBkUQmKcOlvTp0rVnM=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p190662_p_v12_ay.jpg",
+      "image1": "https://i.pinimg.com/564x/c3/ef/1c/c3ef1cd6b1131a06ec7b7bed2aa5a9ad.jpg",
+      "image2": "https://i.pinimg.com/564x/07/6d/94/076d943bd18fec6a13f300c63e56cc8a.jpg",
+      "image3": "https://i.pinimg.com/564x/68/a1/ec/68a1ec8057336f6934bbd740f4c29e60.jpg",
+      "video": "https://www.youtube.com/embed/HWEW_qTLSEE",
+      "description": "Summaries. 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway. As a boy, Carl Fredricksen wanted to explore South America and find the forbidden Paradise Falls."
+    },
+    {
+      "id": "19",
+      "title": "TOY STORY 4",
+      "year": "2019",
+      "image": "https://resizing.flixster.com/pELV_y5uhao6zrSjAqbSY4749RI=/fit-in/180x240/v2/https://resizing.flixster.com/B34EhHn-6Oc5CW0LQbG8B4HXLCg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0NTdkMTFjLWMyNTctNDJkZi1hYWNlLTRmOTFlM2U4NTE4OC53ZWJw",
+      "image1": "https://i.pinimg.com/564x/1a/7a/c0/1a7ac0338a4613ac7619bb8be1c51b7b.jpg",
+      "image2": "https://i.pinimg.com/564x/c5/23/f7/c523f705135a2785220e7f2269448a2f.jpg",
+      "image3": "https://i.pinimg.com/564x/db/78/4d/db784d62bfb9b2d585703954f8453922.jpg",
+      "video": "https://www.youtube.com/embed/wmiIUN-7qhE",
+      "description": "Set after the third film, Toy Story 4 follows Woody (Hanks) and Buzz Lightyear (Allen) as the pair and the other toys go on a road trip with Bonnie (McGraw), who creates Forky (Hale), a spork made with recycled materials from her school."
+    },
+    {
+      "id": "20",
+      "title": "WALL-E",
+      "year": "2008",
+      "image": "https://resizing.flixster.com/oXsPQ8Wqb7rIlhBsQd37fuf99nw=/fit-in/180x240/v2/https://resizing.flixster.com/cAPBycTaGTyvL5knoQfGAocmLTY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkODNhNzI1LTRhOWItNDg0OC05ODcxLWM5NDlmMzVhZTYxYi53ZWJw",
+      "image1": "https://i.pinimg.com/564x/45/0b/5d/450b5d30ea9bfdd7a45332c0f539cf74.jpg",
+      "image2": "https://i.pinimg.com/564x/bf/95/0b/bf950b82adb198bc2c1b71e5aaa4decd.jpg",
+      "image3": "https://i.pinimg.com/564x/59/c9/11/59c911151a807ce5e03b9ccb23d2e785.jpg",
+      "video": "https://www.youtube.com/embed/CZ1CATNbXg0",
+      "description": "WALL•E (Waste Allocation Load Lifter Earth-Class) is the last robot left on Earth, programmed to clean up the planet, one trash cube at a time. However, after 700 years, he's developed one little glitch—a personality. He's extremely curious, highly inquisitive, and a little lonely."
+    }
+  ]
 }
+
